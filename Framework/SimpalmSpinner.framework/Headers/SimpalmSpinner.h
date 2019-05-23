@@ -2,7 +2,7 @@
 //  SimpalmSpinner.h
 //  SimpalmSpinner
 //
-//  Created by Aman Sinha on 17/05/19.
+//  Created by Simpalm on 17/05/19.
 //  Copyright © 2019 simplam. All rights reserved.
 //
 
