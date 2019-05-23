@@ -1,0 +1,11 @@
+framework module SimpalmSpinner {
+  umbrella header "SimpalmSpinner.h"
+
+  export *
+  module * { export * }
+}
+
+module SimpalmSpinner.Swift {
+    header "SimpalmSpinner-Swift.h"
+    requires objc
+}
