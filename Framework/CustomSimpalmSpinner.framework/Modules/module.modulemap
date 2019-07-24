@@ -1,0 +1,11 @@
+framework module CustomSimpalmSpinner {
+  umbrella header "CustomSimpalmSpinner.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomSimpalmSpinner.Swift {
+    header "CustomSimpalmSpinner-Swift.h"
+    requires objc
+}
